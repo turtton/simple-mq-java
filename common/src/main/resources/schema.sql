@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS results
+(
+    id     BIGINT PRIMARY KEY,
+    result BIGINT NOT NULL
+);
